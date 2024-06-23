@@ -93,7 +93,7 @@
 		{
 			"id": "12",
 			"division_id": "3",
-			"name": "Narsingdi",
+			"name": "Norshingdi",
 			"bn_name": "নরসিংদী",
 			"lat": "23.932233",
 			"long": "90.71541"
@@ -141,7 +141,7 @@
 		{
 			"id": "18",
 			"division_id": "5",
-			"name": "Bogura",
+			"name": "Bogra",
 			"bn_name": "বগুড়া",
 			"lat": "24.8465228",
 			"long": "89.377755"
@@ -197,7 +197,7 @@
 		{
 			"id": "25",
 			"division_id": "5",
-			"name": "Sirajgonj",
+			"name": "Sirajganj",
 			"bn_name": "সিরাজগঞ্জ",
 			"lat": "24.4533978",
 			"long": "89.7006815"
@@ -277,7 +277,7 @@
 		{
 			"id": "35",
 			"division_id": "1",
-			"name": "Barishal",
+			"name": "Barisal",
 			"bn_name": "বরিশাল",
 			"lat": "22.7010",
 			"long": "90.3535"
@@ -293,7 +293,7 @@
 		{
 			"id": "37",
 			"division_id": "1",
-			"name": "Jhalokati",
+			"name": "Jhalokathi",
 			"bn_name": "ঝালকাঠি",
 			"lat": "22.6406",
 			"long": "90.1987"
@@ -309,7 +309,7 @@
 		{
 			"id": "39",
 			"division_id": "1",
-			"name": "Pirojpur",
+			"name": "Perojpur",
 			"bn_name": "পিরোজপুর",
 			"lat": "22.5841",
 			"long": "89.9720"
@@ -341,7 +341,7 @@
 		{
 			"id": "43",
 			"division_id": "2",
-			"name": "Chattogram",
+			"name": "Chittagong",
 			"bn_name": "চট্টগ্রাম",
 			"lat": "22.335109",
 			"long": "91.834073"
@@ -349,7 +349,7 @@
 		{
 			"id": "44",
 			"division_id": "2",
-			"name": "Cumilla",
+			"name": "Comilla",
 			"bn_name": "কুমিল্লা",
 			"lat": "23.4682747",
 			"long": "91.1788135"
@@ -381,7 +381,7 @@
 		{
 			"id": "48",
 			"division_id": "2",
-			"name": "Lakshmipur",
+			"name": "Laksmipur",
 			"bn_name": "লক্ষ্মীপুর",
 			"lat": "22.942477",
 			"long": "90.841184"
@@ -413,7 +413,7 @@
 		{
 			"id": "52",
 			"division_id": "7",
-			"name": "Maulvibazar",
+			"name": "Moulvibazar",
 			"bn_name": "মৌলভীবাজার",
 			"lat": "24.482934",
 			"long": "91.777417"
@@ -453,7 +453,7 @@
 		{
 			"id": "57",
 			"division_id": "4",
-			"name": "Jashore",
+			"name": "Jessore",
 			"bn_name": "যশোর",
 			"lat": "23.16643",
 			"long": "89.2081126"
